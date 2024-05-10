@@ -6,8 +6,7 @@
 
 `SEMESTRE`
 
-`Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.`
-Plataforma para investir em criptomoedas para brasileiros. 
+O projeto tem o intuito de criar uma plataforma para investir em criptomoedas para brasileiros com acesso a cursos e muito mais. 
 
 ## Integrantes
 
