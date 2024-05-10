@@ -22,7 +22,50 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 ## Wireframes
 
-![tela home](img/tela_home.png)
+![tela home](img/home.png)
+tela home
+
+---
+
+![tela cadastro](img/tela_cadastro.png)
+tela de cadastro
+
+---
+
+![tela cadastro](img/tela_login.png)
+tela de login
+
+---
+
+
+![tela cadastro](img/informacao_cripto.png)
+tela de pesquisar mais um painel abaixo com as criptos disponiveis na plataforma.
+
+---
+
+
+![tela cadastro](img/tela_procura.png)
+tela de pesquisar ocm um painel abaixo com as criptos disponiveis na plataforma.
+
+---
+
+![tela cadastro](img/informacao_cripto.png)
+tela com a criptomoeda mais o botão investir, mais grafico.
+
+---
+
+
+![tela cadastro](img/pagamento.png)
+tela pagamento.
+
+---
+
+
+![tela cadastro](img/perfil.png)
+tela de perfil.
+
+---
+
 
  
 > **Links Úteis**:
