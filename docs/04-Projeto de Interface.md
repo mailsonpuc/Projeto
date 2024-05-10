@@ -38,19 +38,23 @@ tela de login
 ---
 
 
-![tela cadastro](img/informacao_cripto.png)
-tela de pesquisar mais um painel abaixo com as criptos disponiveis na plataforma.
+![tela cadastro](img/perfil.png)
+tela de perfil.
 
 ---
+
+
 
 
 ![tela cadastro](img/tela_procura.png)
-tela de pesquisar ocm um painel abaixo com as criptos disponiveis na plataforma.
+tela de pesquisar oom um painel abaixo com as criptos disponiveis na plataforma.
 
 ---
 
+
+
 ![tela cadastro](img/informacao_cripto.png)
-tela com a criptomoeda mais o botão investir, mais grafico.
+tela com as informaçoẽs da criptomoeda, mais um botão investir, mais o grafico.
 
 ---
 
@@ -61,10 +65,7 @@ tela pagamento.
 ---
 
 
-![tela cadastro](img/perfil.png)
-tela de perfil.
 
----
 
 
  
