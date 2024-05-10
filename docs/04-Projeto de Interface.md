@@ -47,7 +47,7 @@ tela de perfil.
 
 
 ![tela cadastro](img/tela_procura.png)
-tela de pesquisar oom um painel abaixo com as criptos disponiveis na plataforma.
+tela de pesquisar com um painel abaixo com as criptos disponiveis na plataforma.
 
 ---
 
