@@ -8,9 +8,23 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+### Ricardo Cláudio Leandro Pinto
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+
+<img src="img/person1.jpeg" width="180px"> 
+
+Formado em Administração, trabalha em um escritório de gestão comercial.
+| MOTIVAÇÕES                                                                                                                                                                                                                     | FRUSTRAÇÕES                                                                                                                      | HOBBIES / HISTÓRIA                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| O Ricardo é um homem de 33 anos que não sabe investir, mas gostaria de aprender | Ele quer uma plataforma facil. | Ele tem interesse em investimentos |
+
+| Quais tecnologias usa  | Principais informações sobre a persona | Quem os influencia |
+|---                     | ---                                    | ---                |
+| Facebook               |  Curioso                               |  professor Andre   |
+| Instagram              |  quer investir                         |  professor Carlos  |
+| Youtube                |  quer uma plataform facil              |  Brasil Noticias   |
+
+---
 
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
@@ -28,10 +42,10 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Ricardo             | quero uma plataforma para          | Isso me judaria para eu aprender       |
+|                    |    aprender a investir             |                                        |
+                 
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
@@ -46,10 +60,16 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+| ID    | Descrição do Requisito                                  | Prioridade |
+|-------|----------------------------------------------------------|------------|
+| RF-000| O sistema deve permitir que os usuários acessem a plataforma através de um navegador web. | BAIXA |
+| RF-001| O sistema deve permitir que os usuários realizem o cadastro fornecendo suas informações pessoais. | ALTA |
+| RF-002| O sistema deve permitir que os usuários façam login em suas contas usando um nome de usuário e uma senha válidos. | MÉDIA |
+| RF-004| O sistema deve possibilitar que os usuários pesquisem por criptomoedas de acordo com a sua disponibilidade. | MÉDIA |
+| RF-005| O sistema deve possibilitar que os usuários visualizem o perfil da criptomoeda. | ALTA |
+| RF-006| O sistema deve permitir investimento. | ALTA |
+
+
 
 ### Requisitos não Funcionais
 
