@@ -7,8 +7,13 @@ Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Defini�
 
 ## Relação de Ambientes de Trabalho
 
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito deverá ser apresentada em uma tabela que especifica que detalha Ambiente, Plataforma e Link de Acesso. 
-Nota: Vide documento modelo do estudo de caso "Portal de Notícias" e defina também os ambientes e frameworks que serão utilizados no desenvolvimento de aplicações móveis.
+Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
+
+| Ambiente  | Plataforma | Link de Acesso |
+| ------------- | ------------- | ------------- |
+| Repositório de Código Fonte e Documentos do Projeto  | Github | https://github.com/mailsonpuc/Projeto |
+| Projeto de Interface e  Wireframes  | MarvelApp  | [Temporariamente Indisponível]  |
+| Gerenciamento do Projeto  | Kanban  | google keep |.
 
 ## Controle de Versão
 
@@ -48,10 +53,10 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 Apresente a divisão de papéis entre os membros do grupo.
 
 Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
-- Scrum Master: Felipe Domingos;
-- Product Owner: Rommel Carneiro;
-- Equipe de Desenvolvimento: Pedro Penna, Pedro Ivo, Rodrigo Richard;
-- Equipe de Design: Simone Nogueira.
+- Scrum Master: Mailson;
+- Product Owner: Mailson;
+- Equipe de Desenvolvimento: Mailson;
+- Equipe de Design: Mailson.
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
@@ -74,9 +79,9 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 
 As ferramentas empregadas no projeto são:
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
+- Visual Studio code.
+- Subleme text.
+- Ferramentas de desenho de tela MarvelApp
 
 O editor de código foi escolhido porque ele possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
 
