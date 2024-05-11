@@ -4,7 +4,7 @@
 
 ## Diagrama de Fluxo
 
-![Exemplo de Diagrama de Fluxo](img/diagramacao.png)
+![Exemplo de Diagrama de Fluxo](img/update_diagrama1.png)
 
 
 
