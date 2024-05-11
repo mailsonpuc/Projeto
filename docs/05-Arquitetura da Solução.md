@@ -7,6 +7,7 @@ Definição de como o software é estruturado em termos dos componentes que faze
 ![Arquitetura da Solução](img/arch-back.JPG)
 
 ## Diagrama de Classes
+![Arquitetura da Solução](img/diagramaClasse2.png)
 
 O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
 
