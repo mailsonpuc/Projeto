@@ -47,7 +47,7 @@ tela com as informaçoẽs da criptomoeda, mais um botão investir, mais o grafi
 ---
 
 ![tela cadastro](img/valor.png)
-tela para digitar o valor que quer investir.
+tela para digitar o valor que quer investir. a mesma para sacar
 
 ---
 
