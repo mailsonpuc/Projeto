@@ -12,9 +12,7 @@ O projeto tem o intuito de criar uma plataforma para investir em criptomoedas pa
 ## Integrantes
 
 * Mailson
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+  
 
 ## Orientador
 
