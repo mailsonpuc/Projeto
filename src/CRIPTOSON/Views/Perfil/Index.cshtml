@@ -1,0 +1,100 @@
+@{
+    ViewData["Title"] = "Perfil";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-4">
+            <button class="btn btn-primary" type="button" data-bs-toggle="offcanvas"
+                data-bs-target="#offcanvasWithBothOptions" aria-controls="offcanvasWithBothOptions">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                    class="bi bi-person-fill" viewBox="0 0 16 16">
+                    <path d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6" />
+                </svg>
+            </button>
+
+            <div class="offcanvas offcanvas-start" data-bs-scroll="true" tabindex="-1" id="offcanvasWithBothOptions"
+                aria-labelledby="offcanvasWithBothOptionsLabel">
+                <div class="offcanvas-header">
+                    <h5 class="offcanvas-title" id="offcanvasWithBothOptionsLabel">perfil</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                </div>
+                <div class="offcanvas-body">
+                    <img src="https://github.com/mailsonpuc/mailsonpuc.github.io/blob/main/undraw_Male_avatar_g98d.png?raw=true"
+                        class="rounded mx-auto d-block" alt="perfil" width="300px">
+
+                    <p><a href="#"
+                            class="link-primary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">link</a>
+                    </p>
+                    <p><a href="#"
+                            class="link-secondary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">link</a>
+                    </p>
+                    <p><a href="#"
+                            class="link-success link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">link</a>
+                    </p>
+                    <p><a href="#"
+                            class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">link</a>
+                    </p>
+                    <p><a href="#"
+                            class="link-warning link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">link</a>
+                    </p>
+                    <p><a href="#"
+                            class="link-info link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">link</a>
+                    </p>
+                    <p><a href="#"
+                            class="link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">link</a>
+                    </p>
+                    <p><a href="#"
+                            class="link-dark link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">link</a>
+                    </p>
+                    <p><a href="#"
+                            class="link-body-emphasis link-offset-2 link-underline-opacity-25 link-underline-opacity-75-hover">link</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="col-8">
+            <p>patrimonio</p>
+            <div class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="25"
+                aria-valuemin="0" aria-valuemax="100">
+                <div class="progress-bar" style="width: 25%">25%</div>
+            </div>
+
+            <p>total investido</p>
+            <div class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="35"
+                aria-valuemin="0" aria-valuemax="100">
+                <div class="progress-bar" style="width: 35%">35%</div>
+
+            </div>
+            criptomoedas ganho: +5% perda: -0%
+        </div>
+    </div>
+
+
+</div>
+
+
+<div class="container-fluid" style="margin-top: 20px;">
+    <!-- TradingView Widget BEGIN -->
+    <div class="tradingview-widget-container" style="height:100%;width:100%">
+        <div class="tradingview-widget-container__widget" style="height:calc(100% - 32px);width:100%"></div>
+        <div class="tradingview-widget-copyright"><a href="https://br.tradingview.com/" rel="noopener nofollow"
+                target="_blank"><span class="blue-text">Monitore todos os mercados no TradingView</span></a></div>
+        <script type="text/javascript"
+            src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+                {
+                    "autosize": true,
+                        "symbol": "BINANCE:BTCUSDT",
+                            "interval": "D",
+                                "timezone": "Etc/UTC",
+                                    "theme": "dark",
+                                        "style": "1",
+                                            "locale": "br",
+                                                "allow_symbol_change": true,
+                                                    "calendar": false,
+                                                        "support_host": "https://www.tradingview.com"
+                }
+            </script>
+    </div>
+    <!-- TradingView Widget END -->
+</div>

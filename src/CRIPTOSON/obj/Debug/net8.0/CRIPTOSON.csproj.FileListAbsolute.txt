@@ -585,3 +585,8 @@
 /var/tmp/Projeto/src/CRIPTOSON/obj/Debug/net8.0/CRIPTOSON.pdb
 /var/tmp/Projeto/src/CRIPTOSON/obj/Debug/net8.0/CRIPTOSON.genruntimeconfig.cache
 /var/tmp/Projeto/src/CRIPTOSON/obj/Debug/net8.0/ref/CRIPTOSON.dll
+/var/tmp/Projeto/src/CRIPTOSON/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+/var/tmp/Projeto/src/CRIPTOSON/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/var/tmp/Projeto/src/CRIPTOSON/bin/Debug/net8.0/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+/var/tmp/Projeto/src/CRIPTOSON/bin/Debug/net8.0/refs/Microsoft.Extensions.Identity.Core.dll
+/var/tmp/Projeto/src/CRIPTOSON/bin/Debug/net8.0/refs/Microsoft.Extensions.Identity.Stores.dll
