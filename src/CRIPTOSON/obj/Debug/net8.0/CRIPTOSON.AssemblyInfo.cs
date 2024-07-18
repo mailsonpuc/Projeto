@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRIPTOSON")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72ab6ba331a757c22c0e63f2f7a95353be7fcc5d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b751e447b93c51f431d26de0fd8ec0d24fd70fbd")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRIPTOSON")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRIPTOSON")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
